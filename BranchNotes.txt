@@ -1,2 +1,3 @@
-Master branch notes
+R2-19 branch notes
 *This is the base branch for used continuious integration
+This branch is created from Master branch
