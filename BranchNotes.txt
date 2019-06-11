@@ -1,2 +1,6 @@
 Master branch notes
-R2.19 Branch is derived from Master
+R1.19 Branch is derived from Master
+R2-19 branch is created from Master
+*This is the base branch for used continuious integration
+This branch is created from Master branch
+Updated the R1-19 code
